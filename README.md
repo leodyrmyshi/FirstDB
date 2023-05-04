@@ -27,3 +27,7 @@ https://www.sqlitetutorial.net/sqlite-sample-database/#:~:text=the%20following%2
 come connettersi a SQLite
 
 ![Cattura4](https://user-images.githubusercontent.com/116791297/236147625-a78b9bee-69b7-4c95-ae57-d45fe1b865fb.PNG)
+
+il codice in c# per visualizzare tutti gli artisti è questo:
+
+![Cattura6](https://user-images.githubusercontent.com/116791297/236148315-88d4520d-e279-48f7-a608-7dfa9880d3b1.PNG)
