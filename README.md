@@ -1,6 +1,7 @@
 # FirstDB
 Inanzitutto scarichiamo il file da un link che ci viene assegnato dal professore.
 creiamo una carertlla sul desktop
+
 ![Cattura5](https://user-images.githubusercontent.com/116791297/236147586-9c8f96a9-c271-4750-9e00-0a428b782c05.PNG)
 
 
