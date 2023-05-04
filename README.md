@@ -16,3 +16,4 @@ una volta effettuato il dotnet si ottiene questo
 per scaricare la libreria desiderata dobbiamo andare nella sezione delle estensioni
 ![Cattura](https://user-images.githubusercontent.com/116791297/236142487-2815eca5-e162-4237-aac9-d8f3ac6e118c.PNG)
 
+Download SQLite sample database
