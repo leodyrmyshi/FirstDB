@@ -9,6 +9,7 @@ Dotnet new console serve:
 2) File di configurazione o soluzione in base al modello specificato
 
 una volta effettuato il dotnet si ottiene questo
+
 ![Cattura3](https://user-images.githubusercontent.com/116791297/236144041-c3b87cc1-d676-4b02-b2f1-dfab9916dd95.PNG)
 
 
